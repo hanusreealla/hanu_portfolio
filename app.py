@@ -6,12 +6,13 @@ st.set_page_config(page_title="Alla Hanu Sree Portfolio", layout="wide")
 
 # --- HOME ---
 st.title("Welcome to Alla Hanu Sree's Portfolio")
-st.markdown("""
-Hi, I’m Alla Hanu Sree, a Mechanical Engineer from IIT Hyderabad, with strong expertise in Python and Machine Learning.
+st.markdown(""" i, I’m Alla Hanu Sree, a Mechanical Engineer from IIT Hyderabad.
+I’m deeply passionate about using Python, machine learning, and embedded systems to solve real-world problems.
 
-I specialize in applying machine learning, computer vision, and sensor integration to solve real-world problems in robotics, simulation, and embedded systems.
+While I have hands-on experience in robotics, computer vision, and sensor integration, I’m especially excited about continually
+expanding my skills—currently learning ROS2 and Isaac Sim to deepen my understanding of autonomous systems and simulation environments.
 
-Currently, I’m working on developing solutions for autonomous systems, simulation environments, and marine sensor modules.
+.
 
 ---
 
@@ -39,7 +40,7 @@ st.write("""
 Reconstructing 3D shapes from 2D views using OpenCV.
 Involves edge detection, Hough transform, and coordinate mapping.
 """)
-st.markdown("**Skills & Tools:** Python, OpenCV, Hough Transform")
+st.markdown("**Skills & Tools:** Python, OpenCV")
 st.markdown("*GitHub Repo coming soon*")
 
 # Project 3
@@ -65,7 +66,7 @@ st.header("Skills")
 st.markdown("""
 **Languages:** Python, C++, Arduino  
 **ML Frameworks:** Scikit-learn, XGBoost  
-**Robotics & Simulation Tools:** ROS2 (learning), Isaac Sim (learning), Gazebo, MATLAB, Solid Edge, OpenCV  
+**Robotics & Simulation Tools:** ROS2 (learning), Isaac Sim (learning), Gazebo (learning), MATLAB, Solid Edge, OpenCV  
 **Embedded Systems:** Arduino, Sensor Integration, IoT  
 **Data Analytics:** Pandas, NumPy, Data Visualization
 """)
