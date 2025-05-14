@@ -6,13 +6,11 @@ st.set_page_config(page_title="Alla Hanu Sree Portfolio", layout="wide")
 
 # --- HOME ---
 st.title("Welcome to Alla Hanu Sree's Portfolio")
-st.markdown(""" i, I’m Alla Hanu Sree, a Mechanical Engineer from IIT Hyderabad.
+st.markdown(""" Hi, I’m Alla Hanu Sree, a Mechanical Engineer from IIT Hyderabad.
 I’m deeply passionate about using Python, machine learning, and embedded systems to solve real-world problems.
 
 While I have hands-on experience in robotics, computer vision, and sensor integration, I’m especially excited about continually
 expanding my skills—currently learning ROS2 and Isaac Sim to deepen my understanding of autonomous systems and simulation environments.
-
-.
 
 ---
 
