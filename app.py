@@ -10,7 +10,7 @@ st.markdown(""" Hi, I’m Alla Hanu Sree, a Mechanical Engineer from IIT Hyderab
 I’m deeply passionate about using Python, machine learning, and embedded systems to solve real-world problems.
 
 While I have hands-on experience in robotics, computer vision, and sensor integration, I’m especially excited about continually
-expanding my skills—currently learning ROS2 and Isaac Sim to deepen my understanding of autonomous systems and simulation environments.
+expanding my skills by learning ROS2 and Isaac Sim to deepen my understanding of autonomous systems and simulation environments.
 
 ---
 
